@@ -1,0 +1,184 @@
+
+h1{
+  margin: 20% auto;
+  font-family: "Montserrat";
+  font-weight: 900;
+  line-height: 1.5;
+  color: #388E3C;
+  font-size:3rem;
+
+}
+h2{
+  font-family: "Montserrat";
+  font-weight: 700;
+  line-height: 1.5;
+color: #388E3C;
+  font-size:2.5rem;
+  padding-bottom: 10px;
+
+}
+body{
+  font-family: "Montserrat";
+  width: 100%;
+}
+.btn{
+  margin: 0 5% 0 5%;
+}
+.c1{
+  padding: 5%;
+}
+.carb{
+  width: 100%;
+}
+.feature-box{
+  padding: 5%;
+  text-align: center;
+}
+.ite{
+  position: absolute;
+  margin-top: 8%;
+  margin-left: 15%;
+  width: 50%;
+  transform: rotate(25deg);
+}
+p{
+  color: #8f8f8f;
+}
+.nav{
+  width: 100%;
+}
+.nav-link:{
+  color: red;
+}
+.navbar-brand{
+  padding-left: 20px;
+  font-family: 'Bangers', cursive;
+  font-size: 2rem;
+}
+.navbar{
+color: #388E3C;
+width: 100%;
+
+}
+
+h3{
+  margin-top: 20px;
+  font-family: "Montserrat";
+  font-weight: 700;
+}
+h4{
+  margin-top: 20px;
+  font-family: "Montserrat";
+  font-weight: 700;
+  color: #4CAF50;
+}
+#features{
+  position: relative;
+  background-color: #ffffff;
+
+  padding: 7%;
+}
+.f1{
+  color:#4CAF50;
+}
+.f1:hover{
+  color:#388E3C;
+
+}
+
+@media (max-width: 1000px){
+  .ite{
+    text-align: center;
+    position: static;
+    margin:5% 10% 0 10%;
+    width: 50%;
+    transform: rotate(0deg);
+
+  }
+  #features{
+
+    background-color: #ffffff;
+    padding: 7%;
+  }
+  #title{
+    padding-bottom: 100px;
+    text-align: center;
+    background-color: #eaf9f5;
+
+  }
+
+}
+
+
+#title{
+  padding-bottom: 100px;
+  background-color: #C8E6C9;
+
+}
+.navbar{
+  width: 100%
+}
+/* Testimonials*/
+
+#testimonials{
+
+  text-align: center;
+  background-color: #eaf9f5;
+}
+.pandhi{
+  width: 30%;
+  margin-top: 20px;
+  margin-left:  20px;
+  border-radius: 200px;
+}
+#press{
+  padding: 5%;
+
+  text-align: center;
+  background-color: #eaf9f5;
+
+}
+.carousel-item{
+  padding: 7% 15%;
+}
+.logos{
+  margin: 0 2.5% 0 2.5%;
+  width: 15%;
+}
+
+.carousel-control-next-icon{
+  background-color: #388E3C;
+  color: #007bff;
+  padding: 5px;
+}
+.carousel-control-prev-icon{
+  background-color:#388E3C;
+}
+#pricing{margin-top: 50px;
+  text-align: center;
+}
+.card-deck{
+  padding:0 3% 10% 3%;
+  margin-top: 100px;
+}
+.card{
+  margin-top: 20px
+}
+.btn2{
+ margin-top: 30px;
+}
+#cta{
+    padding: 10%;
+    font-weight: 700;
+    text-align: center;
+    background-color: #C8E6C9;
+}
+#footer{
+  color: #ffffff;
+  padding: 5%;
+  text-align: center;
+  background-color:  #4CAF50;
+}
+h6{color: #ffffff;
+
+}
